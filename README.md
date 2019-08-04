@@ -1,1 +1,3 @@
 # RNN_for_Matrix
+This repository contains code for a recurrent neural netowrk which is developed for manifold-valued data specifically, data residing on the manifold of symmetric positive definite (SPD) matrices.
+If you use this code, please cite our paper that describes the theory and algorithms associated with this code. The citation is:         Rudrasis Chakraborty, Chun-Hao Yang, Xingjian Zhen, Monami Banerjee, Derek Archer, David Vaillancourt, Vikas Singh, Baba Vemuri, "A statistical recurrent model on the manifold of symmetric positive definite matrices," 32nd Conference on Advances in Neural Information Processing Systems (NeurIPS), 2018,Montreal, Canada. 
